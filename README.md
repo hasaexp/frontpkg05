@@ -26,6 +26,7 @@ LP(ランディングページ)を作るためのwebpackパッケージです。
 $ npm run start # webpack-dev-serverが起動。こちらで開発します。
 $ npm run build # 公開用データをdistフォルダに生成します。
 ```
+npm run buildを実行するとURL関数をリライトします。URLを適宜変更してください。
 
 ## Install
 ファイルをダウンロードしたら、以下のコマンドでインストールしてください。
