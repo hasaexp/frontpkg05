@@ -17,6 +17,10 @@ LP(ランディングページ)を作るためのwebpackパッケージです。
 
 このパッケージに好みのJSライブラリやCSSフレームワークを組み合わせるといいと思います。
 
+### 注意
+- 画像の読み込み方法  
+  img(src=require('./images/sample.png') alt="nature")
+
 ## Requirement
 当パッケージを使うにはNode.js(npm)のインストールが必要です。  
 <a href="https://nodejs.org/ja/" target="_blank">Node.jsの公式ページ</a>
